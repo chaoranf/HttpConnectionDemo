@@ -1,4 +1,4 @@
-package com.example.testhttp.interfaceimp;
+package com.feng.testhttp.interfaceimp;
 
 public interface RequestCallBack {
 	

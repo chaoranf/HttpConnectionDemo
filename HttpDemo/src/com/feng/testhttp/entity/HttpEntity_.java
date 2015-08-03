@@ -1,4 +1,4 @@
-package com.example.testhttp.entity;
+package com.feng.testhttp.entity;
 
 /**
  * 通过这种类型进行fastJson的反序列化，需要在JSON.parseObject()中的class参数中写入

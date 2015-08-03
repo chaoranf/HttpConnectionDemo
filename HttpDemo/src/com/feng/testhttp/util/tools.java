@@ -2,7 +2,7 @@
  * 2015-7-31 
  * adminauthor by chaoranf
  */
-package com.example.testhttp.util;
+package com.feng.testhttp.util;
 /** 
  * @author chaoranf 
  * @version 创建时间：2015-7-31 下午1:38:04 

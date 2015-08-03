@@ -1,4 +1,4 @@
-package com.example.testhttp.httputil;
+package com.feng.testhttp.httputil;
 
 /** 
  * 对网络的基本通信，增加异常处理

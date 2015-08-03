@@ -1,4 +1,4 @@
-package com.example.testhttp.entity;
+package com.feng.testhttp.entity;
 
 public class WeatherInfo {
 	public String city;

@@ -1,4 +1,4 @@
-package com.example.testhttp.httputil;
+package com.feng.testhttp.httputil;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import javax.net.ssl.HttpsURLConnection;
 
 import android.util.Log;
 
-import com.example.testhttp.interfaceimp.RequestCallBack;
+import com.feng.testhttp.interfaceimp.RequestCallBack;
 
 /**
  * 网络基础通信

@@ -1,15 +1,16 @@
-package com.example.testhttp;
+package com.feng.testhttp;
 
 import java.util.HashMap;
 import java.util.Map;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.TypeReference;
-import com.example.testhttp.entity.HttpEntity;
-import com.example.testhttp.entity.HttpEntity_;
-import com.example.testhttp.entity.WeatherInfo;
-import com.example.testhttp.httputil.HttpUtil;
-import com.example.testhttp.interfaceimp.RequestCallBack;
+import com.example.testhttp.R;
+import com.feng.testhttp.entity.HttpEntity;
+import com.feng.testhttp.entity.HttpEntity_;
+import com.feng.testhttp.entity.WeatherInfo;
+import com.feng.testhttp.httputil.HttpUtil;
+import com.feng.testhttp.interfaceimp.RequestCallBack;
 
 import android.app.Activity;
 import android.os.Bundle;
