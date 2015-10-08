@@ -14,6 +14,13 @@ import com.fcr.demo.utils.PackageUtils;
 import android.app.Application;
 import android.text.TextUtils;
 
+/**
+ * 初始化工作
+ * 
+ * @author chaoranf
+ * @CreateTime 2015-10-08
+ * 
+ */
 public class DemoApplication extends Application {
 
 	private static final String TAG = "fcrDemo";
